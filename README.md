@@ -1,0 +1,1 @@
+This app demonstrates CSS Variables with JS
